@@ -1,0 +1,15 @@
+/home/dell/Documentos/C3/bin/Debug/net6.0/C3
+/home/dell/Documentos/C3/bin/Debug/net6.0/C3.deps.json
+/home/dell/Documentos/C3/bin/Debug/net6.0/C3.runtimeconfig.json
+/home/dell/Documentos/C3/bin/Debug/net6.0/C3.dll
+/home/dell/Documentos/C3/bin/Debug/net6.0/ref/C3.dll
+/home/dell/Documentos/C3/bin/Debug/net6.0/C3.pdb
+/home/dell/Documentos/C3/obj/Debug/net6.0/C3.csproj.AssemblyReference.cache
+/home/dell/Documentos/C3/obj/Debug/net6.0/C3.GeneratedMSBuildEditorConfig.editorconfig
+/home/dell/Documentos/C3/obj/Debug/net6.0/C3.AssemblyInfoInputs.cache
+/home/dell/Documentos/C3/obj/Debug/net6.0/C3.AssemblyInfo.cs
+/home/dell/Documentos/C3/obj/Debug/net6.0/C3.csproj.CoreCompileInputs.cache
+/home/dell/Documentos/C3/obj/Debug/net6.0/C3.dll
+/home/dell/Documentos/C3/obj/Debug/net6.0/ref/C3.dll
+/home/dell/Documentos/C3/obj/Debug/net6.0/C3.pdb
+/home/dell/Documentos/C3/obj/Debug/net6.0/C3.genruntimeconfig.cache
